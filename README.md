@@ -17,7 +17,7 @@ Bitcoin, the pioneering cryptocurrency, has ignited global interest due to its i
 
 The foundation of this analysis rests on historical Bitcoin price data, meticulously collected from the CryptoCompare API. This dataset comprises of hourly Bitcoin price data starting from July 23, 2023, 23:00:00 and going back two years. The dataset encompasses a rich variety of information, including daily opening, closing, high, and low prices, along with corresponding trading volumes in Bitcoin and US Dollars. This comprehensive dataset serves as the bedrock for our in-depth analysis and forecasting endeavors.
 
-# Methodology
+## Methodology
 
 ### Insights and Visualization
 
