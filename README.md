@@ -43,10 +43,8 @@ The project's core findings and outcomes can be summarized as follows:
 
 - Volatility Insights: Our examination of Bitcoin price volatility revealed intriguing volatility clustering patterns. These insights provide valuable information for understanding market behavior and making informed decisions within the cryptocurrency space.
 
-- Predictive Modeling: By employing advanced time-series forecasting models like ARIMA and Prophet, we achieved successful predictions of Bitcoin prices into the future. This predictive capability equips us with a potential advantage for anticipating market trends.
+- Predictive Modeling: By employing advanced time-series forecasting models like SARIMA and Prophet, we achieved successful predictions of Bitcoin prices into the future. This predictive capability equips us with a potential advantage for anticipating market trends.
 
 - Interpreting Visuals: Beyond technical aspects, we emphasized the extraction of meaningful insights from visualizations. This combination of analytical skills and effective data communication enables us to decipher complex trends and patterns.
-
-- Accessible Resource: The project's GitHub repository serves as a practical hub for code, documentation, and visualizations. This resource is intended to benefit data enthusiasts, researchers, and cryptocurrency investors alike.
 
 The combined use of volatility analysis, time-series modeling, and insightful visualization allowed us to understand and forecast Bitcoin price dynamics, contributing to a deeper understanding of the cryptocurrency landscape.
