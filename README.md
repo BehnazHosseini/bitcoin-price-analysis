@@ -4,6 +4,8 @@
 
 Bitcoin, the pioneering cryptocurrency, has ignited global interest due to its intriguing price fluctuations and potential impact on the financial landscape. This project is designed to provide a comprehensive exploration of Bitcoin's price behavior, encompassing historical trends, volatility patterns, and future price predictions.
 
+**Note**: You can see the code in bitcoin.ipynb and the notebook with outputs and plots in bitcoin_notebook.html.
+
 ## Table of Contents
 
 - [Data](#data)
